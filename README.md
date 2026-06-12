@@ -1,44 +1,44 @@
-# 📊 Power BI Sales Dashboard Project
+# 📊 Sales Dashboard - Power BI
 
-## 🔍 Project Overview
-This is a beginner-level Power BI project focused on building a Sales Dashboard using a sample Superstore dataset. It covers KPIs, interactive visuals, slicers, and DAX basics.
+## About This Project
+This is a simple Sales Dashboard created using Power BI to analyze sales performance from a retail dataset. The dashboard provides insights into sales, profit, orders, quantity sold, regional performance, and product categories.
 
-## 🧱 Tools Used
+## Features
+- Total Sales, Profit, Orders, and Quantity KPIs
+- Sales Trend Over Time
+- Sales by Region Analysis
+- Sales by Product Category
+- Interactive Region and Category Filters
+- Product-wise Sales and Profit Details
+
+## Tools Used
 - Power BI Desktop
 - DAX
-- CSV Data Source (Superstore)
+- Power Query
+- Superstore Dataset
 
-## 🧩 Key Features
-- Total Sales, Quantity, Profit, Orders
-- Sales trend over time (Line Chart)
-- Sales by Region (Bar Chart)
-- Sales by Category (Pie Chart)
-- Interactive slicers for Region & Category
-- Detailed table with product-level insights
+## Dashboard Insights
+- Total Sales: 2M
+- Total Profit: 286K
+- Total Quantity Sold: 38K
+- Total Orders: 9,994
+- West region has the highest sales.
+- Technology category contributes the most revenue.
 
-## 📷 Dashboard Screenshot
-![Dashboard Screenshot](screenshots/Sales-Dashboard.png)
+## Files
+- Sales Dashboard.pbix
+- Sample - Superstore.csv
+- README.md
 
-## 📁 Files Included
-- `Sales_Dashboard.pbix`: Power BI file
-- `Sample - Superstore.csv`: Source dataset (optional)
-- `README.md`: Project documentation
-- `/screenshots/`: Dashboard image
+## What I Learned
+- Data cleaning and transformation
+- Creating measures using DAX
+- Building interactive dashboards
+- Data visualization best practices
+- Business data analysis
 
-## ✅ Skills Practiced
-- Data modeling & transformation
-- Creating calculated columns & measures
-- Dashboard layout and visual best practices
-- Interactive filters and slicers
+## Dashboard Preview
+(Add your dashboard screenshot here)
 
----
-
-## 📌 Next Steps
-- Add date range slicers
-- Publish to Power BI Service
-- Try forecasting or trend-based visuals
-
----
-
-### 🔗 Connect With Me
-- LinkedIn:www.linkedin.com/in/nikhil-sai-karanki
+## Author
+Sankar Dalli
