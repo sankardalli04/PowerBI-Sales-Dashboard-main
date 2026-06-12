@@ -1,0 +1,17 @@
+Dummy File To Create folder in Github Repo
+
+Used folllowing Steps to Create a folder in Github:
+
+Method 2: Create Folder in “Add File → Create New File”
+Go to your repo.
+
+Click “Add file” → “Create new file”.
+
+In the filename box, type:
+
+screenshots/.gitkeep
+
+Add a commit message and click Commit new file.
+
+👉 This will create a folder called screenshots with a placeholder file .gitkeep.
+(You can later delete .gitkeep after adding real files.)
